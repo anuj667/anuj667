@@ -117,7 +117,7 @@ Scalable web application leveraging a React frontend, Node.js microservices, SQL
 
 ---
 
-## Certifications
+
 
 <div align="center">
 

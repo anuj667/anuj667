@@ -30,7 +30,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 <div align="center">
 <img src="https://img.shields.io/badge/-AGENTIC%20AI%20ENGINEER-9D4EDD?style=for-the-badge"/>
@@ -42,15 +42,15 @@ I'm **Anuj Kumar Yadav**, an **Agentic AI Engineer** and **Full Stack Developer*
 
 Beyond AI, I bring a **product engineering mindset** — I design systems end-to-end, from data pipelines and backend APIs to responsive frontend interfaces and cloud-native deployment. I care about scalability, security, and measurable impact as much as I care about model accuracy.
 
-- 🔭 Currently engineering **agentic LLM systems** using LangChain, LangGraph, and custom transformer implementations
-- ⚙️ Deep interest in **RAG pipelines, vector search, and multi-agent orchestration**
-- 🌐 Full stack capability across **Python, cloud infrastructure, and modern databases**
-- 📈 Product-first approach — I build systems that ship, scale, and solve real problems
-- 🧩 Constantly reverse-engineering LLM internals to understand systems at the architecture level
+-  Currently engineering **agentic LLM systems** using LangChain, LangGraph, and custom transformer implementations
+-  Deep interest in **RAG pipelines, vector search, and multi-agent orchestration**
+-  Full stack capability across **Python, cloud infrastructure, and modern databases**
+-  Product-first approach — I build systems that ship, scale, and solve real problems
+-  Constantly reverse-engineering LLM internals to understand systems at the architecture level
 
 <br/>
 
-**💼 Open To:**
+** Open To:**
 
 ![Open to Work](https://img.shields.io/badge/Open%20To-Agentic%20AI%20Engineer%20Roles-8A2BE2?style=flat-square)
 ![Open to Work](https://img.shields.io/badge/Open%20To-AI%2FML%20Engineering-6A5ACD?style=flat-square)
@@ -62,7 +62,7 @@ Beyond AI, I bring a **product engineering mindset** — I design systems end-to
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <br/>
 
@@ -111,7 +111,7 @@ Beyond AI, I bring a **product engineering mindset** — I design systems end-to
 
 ---
 
-## 🤖 AI / ML Expertise
+##  Agentic AI Expertise
 
 <div align="center">
 
@@ -131,7 +131,7 @@ Beyond AI, I bring a **product engineering mindset** — I design systems end-to
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details open>
 <summary><b>🔗 LLM Router</b></summary>
@@ -186,7 +186,7 @@ Built to internalize the mechanics behind modern LLMs — from self-attention an
 
 ---
 
-## 💻 Coding Profiles
+##  Coding Profiles
 
 <div align="center">
 
@@ -201,7 +201,7 @@ Built to internalize the mechanics behind modern LLMs — from self-attention an
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -218,31 +218,13 @@ Built to internalize the mechanics behind modern LLMs — from self-attention an
 
 ---
 
-## 🏅 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anuj667&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
-
-</div>
 
 <br/>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuj667&theme=react-dark&hide_border=true&bg_color=0D1117&color=B983FF&line=8A2BE2&point=9370DB" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -254,7 +236,7 @@ Built to internalize the mechanics behind modern LLMs — from self-attention an
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```yaml
 current_focus:
@@ -284,7 +266,7 @@ current_focus:
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -306,3 +288,4 @@ current_focus:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
 
 </div>
+

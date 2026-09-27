@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Agentic+AI+Engineer;Building+Autonomous+LLM+Systems;LangChain+%7C+LangGraph+%7C+RAG+Pipelines;Full+Stack+%2B+AI+Product+Engineering" alt="Typing SVG" />
 </a>
-
+<br/>
 <br/>
 
 ![Academic](https://img.shields.io/badge/Engineering-Computer%20Science-6A0DAD?style=flat-square&logo=studyverse&logoColor=white)
@@ -115,15 +115,15 @@ Beyond AI, I bring a **product engineering mindset** — I design systems end-to
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Agentic AI Systems** | ⭐⭐⭐⭐⭐ | Multi-agent orchestration, autonomous planning, tool-calling agents with LangGraph |
-| **RAG Pipelines** | ⭐⭐⭐⭐⭐ | Chunking strategies, embedding pipelines, hybrid search, vector DB integration |
-| **LLM Internals** | ⭐⭐⭐⭐ | Transformer architecture built from scratch, tokenization, attention mechanisms |
-| **Prompt Engineering** | ⭐⭐⭐⭐⭐ | Structured prompting, few-shot design, output-schema enforcement |
-| **Vector Databases** | ⭐⭐⭐⭐ | FAISS, Pinecone, embedding indexing & similarity search optimization |
-| **Model Fine-Tuning** | ⭐⭐⭐⭐ | LoRA / PEFT fine-tuning on domain-specific datasets |
-| **AI System Deployment** | ⭐⭐⭐⭐ | Dockerized inference services, API-first ML system design |
+| Domain  | Details |
+|---|---|
+| **Agentic AI Systems** | Multi-agent orchestration, autonomous planning, tool-calling agents with LangGraph |
+| **RAG Pipelines** | Chunking strategies, embedding pipelines, hybrid search, vector DB integration |
+| **LLM Internals** |  Transformer architecture built from scratch, tokenization, attention mechanisms |
+| **Prompt Engineering** | Structured prompting, few-shot design, output-schema enforcement |
+| **Vector Databases** | FAISS, Pinecone, embedding indexing & similarity search optimization |
+| **Model Fine-Tuning** | LoRA / PEFT fine-tuning on domain-specific datasets |
+| **AI System Deployment** | Dockerized inference services, API-first ML system design |
 
 </div>
 
@@ -175,15 +175,6 @@ Built to internalize the mechanics behind modern LLMs — from self-attention an
 
 <br/>
 
-
-
-<br/>
-
----
-
-
-<br/>
-
 ---
 
 ##  Coding Profiles
@@ -213,12 +204,6 @@ Built to internalize the mechanics behind modern LLMs — from self-attention an
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj667&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B983FF&text_color=c9d1d9" width="49%"/>
 
 </div>
-
-<br/>
-
----
-
-
 
 <br/>
 
